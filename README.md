@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CiprianoPrince
-- 👀 I’m interested in anything that i ddem interesting
-- 🌱 I’m currently learning php, sql, javascript
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
+- 👀 I’m study something that i deem interesting
+- 🌱 I’m currently learning html, css, javascript, php, sql(mysql), api integration, database Management
+- 💞️ I’m looking to collaborate on a project with technology like the mentioned above
+- 📫 How to reach me princetonjudecipriano@gmail.com
 
 <!---
 CiprianoPrince/CiprianoPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
